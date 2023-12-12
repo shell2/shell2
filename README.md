@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**shell2/shell2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on IOT
+- 🌱 I’m currently learning CS
+- 👯 I’m looking to collaborate on Knowedge sharing
+- 🤔 I’m looking for help with CS
+- 💬 Ask me about Everything
+- 📫 How to reach me: sunhaili@gmail.com
+- 😄 Pronouns: Haili Sun
 
-Here are some ideas to get you started:
+### Tech stack (used, learned and learning):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, Go, Perl, C/C++, Bash
+Javascript, Typescript, CSS, HTML
+Flask, Django, Vue, Node.js
+PyATS
+PostgreSQL, MySQL, ClickHouse, Mongo, Redis, DynamoDB
+AWX, Ansible, Jenkins, Terraform, Git Actions
+Docker, Git, Bitbucket, Jira, Confluence
+AWX, Azure
+OpenAPI
