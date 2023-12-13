@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on IOT
+- 🔭 I’m currently working on CS
 - 🌱 I’m currently learning CS
 - 👯 I’m looking to collaborate on Knowedge sharing
 - 🤔 I’m looking for help with CS
